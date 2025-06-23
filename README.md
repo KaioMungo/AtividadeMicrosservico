@@ -4,6 +4,7 @@ Descrição Esta API é responsável por gerenciar as atividades exercidas pelos
 O serviço possibilita o cadastro e consulta de registros de atividades acadêmicas e administrativas realizadas por docentes.
 
 🚀 Funcionalidades
+
 ✅ Cadastrar nova atividade docente
 
 🔍 Consultar atividades por ID ou listar todas
