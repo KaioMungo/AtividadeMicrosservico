@@ -77,17 +77,25 @@ Fábio Luiz Garrote Ramaldes
 EMAIL
 
 kaio.mungo@aluno.faculdadeimpacta.com.br
+
 diego.criscuolo@aluno.faculdadeimpacta.com.br
+
 bruna.andreata@aluno.faculdadeimpacta.com.br
+
 luiz.calazans@aluno.faculdadeimpacta.com.br
+
 fabio.ramaldes@aluno.faculdadeimpacta.com.br
 
 GITHUB
 
 https://github.com/KaioMungo
+
 https://github.com/Diego09cr
+
 https://github.com/BrunaAndreata
+
 https://github.com/LuizCalazans
+
 https://github.com/FalgasDev
 
 📜 Licença Este projeto está licenciado sob os contatos acima.
