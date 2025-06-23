@@ -69,9 +69,13 @@ caso tenha duvidas ou sugestões, entre em contato com:
 NOMES
 
 Kaio Nogueira Mungo
+
 Diego da Silva Criscuolo
+
 Bruna Bispo Andreata
+
 Luiz Henrique Barros Calazans
+
 Fábio Luiz Garrote Ramaldes
 
 EMAIL
