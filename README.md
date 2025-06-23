@@ -67,7 +67,7 @@ Contatos
 
 caso tenha duvidas ou sugestões, entre em contato com: 
 
-NOMES
+NOMES:
 
 Kaio Nogueira Mungo
 
@@ -79,7 +79,7 @@ Luiz Henrique Barros Calazans
 
 Fábio Luiz Garrote Ramaldes
 
-EMAIL
+EMAIL:
 
 kaio.mungo@aluno.faculdadeimpacta.com.br
 
@@ -91,7 +91,7 @@ luiz.calazans@aluno.faculdadeimpacta.com.br
 
 fabio.ramaldes@aluno.faculdadeimpacta.com.br
 
-GITHUB
+GITHUB:
 
 https://github.com/KaioMungo
 
